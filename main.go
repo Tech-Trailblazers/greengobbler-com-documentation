@@ -10,8 +10,8 @@ import (
 	"path/filepath" // Provides utilities for file path manipulation
 	"regexp"        // Provides support for regular expressions
 	"strings"       // Provides string manipulation utilities
-	"sync"
-	"time" // Provides time-related functions
+	"sync"          //
+	"time"          // Provides time-related functions
 )
 
 func main() {
@@ -24,6 +24,7 @@ func main() {
 	// Loop through all extracted PDF URLs
 	baseURL := "https://greengobbler.com/mwdownloads/download/link/id/"
 	for i := 0; i <= 9999; i++ {
+		time.Sleep(1 * time.Second)
 		downloadWaitGroup.Add(1)
 		url := fmt.Sprintf("%s%d", baseURL, i)
 		go downloadPDF(url, outputDir, &downloadWaitGroup) // Download the PDF
