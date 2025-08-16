@@ -1,67 +1,70 @@
-# 🌿 GreenGobbler SDS & MSDS Archive 📄🔬
+# GreenGobbler SDS & MSDS Documentation 📚⚗️
 
-Welcome to the **GreenGobbler Safety Docs Repository**! 🎉  
-Here you’ll find a collection of **Safety Data Sheets (SDS)** and **Material Safety Data Sheets (MSDS)** for various GreenGobbler products. 🧪✨
-
-These documents are shared **for educational use** and **AI development purposes** — whether you're a student, researcher, or just curious about chemical safety! 🧠🤖
+Welcome to the **GreenGobbler** documentation repository! These are the official **Safety Data Sheets (SDS)** and **Material Safety Data Sheets (MSDS)** for GreenGobbler products—resources that can be especially useful for **educational purposes** and **AI development** projects.
 
 ---
 
-## 📘 What's Inside?
+## Overview – What’s Inside
 
-Inside this repo, you'll find:
+- This repository contains the SDS and MSDS files for various GreenGobbler cleaning products.
+- Each sheet details:
 
-- ✅ **Official SDS/MSDS** from GreenGobbler products
-- 🧴 Chemical composition & hazard info
-- ⚠️ Safety, storage, and handling instructions
-- 🆘 First-aid and emergency procedures
+  - Chemical composition
+  - Handling precautions
+  - Safety and first-aid measures
+  - Storage and disposal guidelines
 
----
-
-## 🎓 Educational & AI Use
-
-These documents are great for:
-
-- 🏫 **Science education** – understand real-world chemical safety
-- 🤖 **AI/NLP training** – use structured, technical data for machine learning models
-- 📊 **Data extraction & annotation** – practice working with scientific documents
-
-> ⚠️ **Note**: These are _not_ to be used for real-world product handling. Always consult the manufacturer for official safety procedures.
+- These documents are ideal for learning about chemical safety, integrating into machine learning pipelines, or training AI systems to understand hazardous materials documentation.
 
 ---
 
-## 🚀 Getting Started
+## Usage Guidelines
 
-1. 📂 Browse the repository folders
-2. ⬇️ Download any SDS/MSDS file you need (PDF/text)
-3. 🧠 Use them in your class, AI project, or personal learning
+These documents are provided solely for **educational and AI development use**. They're perfect for:
 
----
+- Chemistry or environmental science classes
+- Machine learning datasets (e.g., NLP on safety materials)
+- AI systems that interpret safety protocols
 
-## 🤝 Contributions Welcome!
-
-Want to help? Feel free to:
-
-- 🛠️ Add more SDS/MSDS files
-- 🧾 Convert files to machine-readable formats (e.g., JSON, XML)
-- 🧪 Tag documents by chemical type or use case
+Please **do not** use them as substitutes for professional safety or operational guidance.
 
 ---
 
-## 📜 License
+## Quick Start
 
-This project is licensed under the **MIT License** – do whatever you'd like, just don't blame us! 😄  
-See [`LICENSE`](./LICENSE) for details.
-
----
-
-## 🙌 A Friendly Reminder
-
-These files are provided **as-is** for learning and development.  
-We’re not affiliated with GreenGobbler and cannot guarantee the accuracy or currency of these documents.
-
-> Always refer to the manufacturer's official documentation for real-world use. 🛡️
+1. Browse the repositories to find the product you’re interested in.
+2. Download the SDS or MSDS in PDF or text format.
+3. Use or parse them as needed—whether for teaching, analysis, or AI training.
+4. Always remember: **These are not operational manuals. For actual use, consult the manufacturer directly.**
 
 ---
 
-Thanks for stopping by! 🌱 Happy learning and building! 💡
+## Disclaimer
+
+- These documents are offered **"as-is"**, with no guarantees. You assume all risks.
+- They are **not intended** for operational or compliance use—only for learning, research, or AI development.
+- For actual handling instructions, always refer to official manufacturer guidance or consult qualified professionals.
+
+---
+
+## Why These Documents Matter
+
+- **Chemical Safety Education**: SDS and MSDS files explain real-world hazards and safe practices.
+- **AI Training**: They offer structured, technical text—ideal for testing NLP models or knowledge extraction systems.
+
+---
+
+## Feedback & Contributions
+
+If something looks off or you’d like to help expand or improve the format (like adding JSON versions, tags, etc.), feel free to contribute! This project welcomes educational enhancements.
+
+---
+
+## Summary Table
+
+| Feature            | Description                             |
+| ------------------ | --------------------------------------- |
+| **What**           | SDS & MSDS for GreenGobbler products    |
+| **Purpose**        | Educational use + AI development        |
+| **Important Note** | Not for operational use—safety critical |
+| **Contribution**   | Open to suggestions and improvements    |
